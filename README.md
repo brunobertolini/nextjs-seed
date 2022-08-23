@@ -9,4 +9,4 @@ TO-DO
 - [x] Commitlint
 - [x] Husky
 - [x] Tailwind
-- [ ] Storybook
+- [x] Storybook
