@@ -6,7 +6,7 @@ TO-DO
 - [x] Jest
 - [x] Lint (eslint)
 - [x] Format (prettier)
-- [ ] Commitlint
+- [x] Commitlint
 - [x] Husky
 - [ ] Tailwind
 - [ ] Storybook
