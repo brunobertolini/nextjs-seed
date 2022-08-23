@@ -4,9 +4,9 @@ TO-DO
 
 - [x] Path alias
 - [x] Jest
-- [ ] Lint (eslint)
-- [ ] Format (prettier)
+- [x] Lint (eslint)
+- [x] Format (prettier)
 - [ ] Commitlint
-- [ ] Husky
+- [x] Husky
 - [ ] Tailwind
 - [ ] Storybook
