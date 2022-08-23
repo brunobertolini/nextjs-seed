@@ -8,5 +8,5 @@ TO-DO
 - [x] Format (prettier)
 - [x] Commitlint
 - [x] Husky
-- [ ] Tailwind
+- [x] Tailwind
 - [ ] Storybook
